@@ -1,0 +1,74 @@
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.exe
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.pdb
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\bin\Debug\MySql.Data.dll
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.exe
+C:\Users\NEK - MC 54\Documents\Visual Studio 2008\Projects\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.exe
+D:\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\GalleNewApp\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+D:\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+D:\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+D:\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.exe
+D:\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.pdb
+D:\GalleNewApp\GalleNewApp\bin\Debug\MySql.Data.dll
+D:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.exe
+D:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\LGS\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.exe
+D:\LGS\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.pdb
+D:\LGS\GalleNewApp\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+D:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+D:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+E:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.exe
+E:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.pdb
+E:\LGS\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.exe
+E:\LGS\GalleNewApp\GalleNewApp\bin\Debug\GalleNewApp.pdb
+E:\LGS\GalleNewApp\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+E:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+E:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+E:\LGS\GalleNewApp\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+G:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.exe
+G:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.pdb
+G:\GalleNewApp - Copy\GalleNewApp\bin\Debug\GalleNewApp.exe
+G:\GalleNewApp - Copy\GalleNewApp\bin\Debug\GalleNewApp.pdb
+G:\GalleNewApp - Copy\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+G:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+G:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+G:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+D:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.exe
+D:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\GalleNewApp - Copy\GalleNewApp\bin\Debug\GalleNewApp.exe
+D:\GalleNewApp - Copy\GalleNewApp\bin\Debug\GalleNewApp.pdb
+D:\GalleNewApp - Copy\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+D:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+D:\GalleNewApp - Copy\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+D:\excel convert\GalleNewApp\bin\Debug\GalleNewApp.exe
+D:\excel convert\GalleNewApp\bin\Debug\GalleNewApp.pdb
+D:\excel convert\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\excel convert\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+D:\excel convert\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+D:\excel convert\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+D:\excel convert\GalleNewApp\obj\Debug\GalleNewApp.exe
+D:\excel convert\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\excel convert propert tbale\GalleNewApp\obj\Debug\GalleNewApp.exe
+D:\excel convert propert tbale\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\excel convert propert tbale\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\excel convert propert tbale\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+D:\excel convert propert tbale\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+D:\excel convert propert tbale\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
+D:\excel convert propert tbale\GalleNewApp\bin\Debug\GalleNewApp.exe
+D:\excel convert propert tbale\GalleNewApp\bin\Debug\GalleNewApp.pdb
+D:\excel convert Stores tbl\GalleNewApp\obj\Debug\GalleNewApp.exe
+D:\excel convert Stores tbl\GalleNewApp\obj\Debug\GalleNewApp.pdb
+D:\excel convert Stores tbl\GalleNewApp\bin\Debug\GalleNewApp.exe
+D:\excel convert Stores tbl\GalleNewApp\bin\Debug\GalleNewApp.pdb
+D:\excel convert Stores tbl\GalleNewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\excel convert Stores tbl\GalleNewApp\obj\Debug\GalleNewApp.Form1.resources
+D:\excel convert Stores tbl\GalleNewApp\obj\Debug\GalleNewApp.Properties.Resources.resources
+D:\excel convert Stores tbl\GalleNewApp\obj\Debug\GalleNewApp.csproj.GenerateResource.Cache
